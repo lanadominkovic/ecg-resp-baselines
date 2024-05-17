@@ -4,7 +4,7 @@ Following baselines are exctracted using RRest toolbox https://github.com/peterh
 
 
 ## BIDMC
-Median Cross C
+Median Cross Correlation values per method:
 | Method                           | Overall Median CC |
 |----------------------------------|-------------------|
 | ELF_RSlinB_FMeam_FPt_RDtGC_EHF   | 0.668921          |
@@ -14,6 +14,7 @@ Median Cross C
 | flt_Wam                          | 0.369633          |
 | flt_Wfm                          | 0.298983          |
 
+Mean Cross Correlation values per method:
 | Method                           | Mean CC           |
 |----------------------------------|-------------------|
 | ELF_RSlinB_FMeam_FPt_RDtGC_EHF   | 0.637276          |
