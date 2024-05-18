@@ -1,6 +1,6 @@
 # Baselines from RRest Toolbox
 
-Following baselines are exctracted using RRest toolbox https://github.com/peterhcharlton/RRest/tree/master (version 3.0 was used)
+Following baselines are extracted using RRest toolbox https://github.com/peterhcharlton/RRest/tree/master (version 3.0 was used)
 
 
 ## BIDMC
@@ -23,3 +23,23 @@ Mean Cross Correlation values per method:
 | flt_BFi                          | 0.558607          |
 | flt_Wam                          | 0.381441          |
 | flt_Wfm                          | 0.311436          |
+
+Median MSE values per method:
+| Method                              | MSE Value             |
+|-------------------------------------|-----------------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF      | 0.09294402247492166   |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF      | 0.09438058726060645   |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF      | 0.09485677200510584   |
+| flt_BFi                             | 0.09139135901524713   |
+| flt_Wam                             | 0.09750273368732834   |
+| flt_Wfm                             | 0.15436918154469434   |
+
+Mean MSE values per method:
+| Method                              | MSE Value             |
+|-------------------------------------|-----------------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF      | 0.09211508864130444   |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF      | 0.09289551776604257   |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF      | 0.09550256376349406   |
+| flt_BFi                             | 0.09261066150064162   |
+| flt_Wam                             | 0.09716343168135137   |
+| flt_Wfm                             | 0.1672530787310588    |
