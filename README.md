@@ -2,10 +2,27 @@
 
 Following baselines are extracted using RRest toolbox https://github.com/peterhcharlton/RRest/tree/master (version 3.0 was used)
 
+## CAPNOBASE
+Median Cross Correlation values per method:
+| Method                          | Value           |
+|---------------------------------|-----------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.8611708902922213 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.6931336921888313 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.6897644243814937 |
+| flt_BFi                         | 0.45598445558912815 |
+| flt_Wam                         | 0.452134119875432   |
+| flt_Wfm                         | 0.40757009418580536 |
+
+Mean Cross Correlation values per method:
+
+
+## VORTAL
+TBA
+
 
 ## BIDMC
 Median Cross Correlation values per method:
-| Method                           | Overall Median CC |
+| Method                           | Median CC |
 |----------------------------------|-------------------|
 | ELF_RSlinB_FMeam_FPt_RDtGC_EHF   | 0.668921          |
 | ELF_RSlinB_FMebw_FPt_RDtGC_EHF   | 0.624421          |
@@ -25,7 +42,7 @@ Mean Cross Correlation values per method:
 | flt_Wfm                          | 0.311436          |
 
 Median MSE values per method:
-| Method                              | MSE Value             |
+| Method                              | Median MSE            |
 |-------------------------------------|-----------------------|
 | ELF_RSlinB_FMeam_FPt_RDtGC_EHF      | 0.09294402247492166   |
 | ELF_RSlinB_FMebw_FPt_RDtGC_EHF      | 0.09438058726060645   |
@@ -35,7 +52,7 @@ Median MSE values per method:
 | flt_Wfm                             | 0.15436918154469434   |
 
 Mean MSE values per method:
-| Method                              | MSE Value             |
+| Method                              | Mean MSE              |
 |-------------------------------------|-----------------------|
 | ELF_RSlinB_FMeam_FPt_RDtGC_EHF      | 0.09211508864130444   |
 | ELF_RSlinB_FMebw_FPt_RDtGC_EHF      | 0.09289551776604257   |
