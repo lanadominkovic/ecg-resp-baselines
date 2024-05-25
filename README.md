@@ -14,6 +14,14 @@ Median Cross Correlation values per method:
 | flt_Wfm                         | 0.40757009418580536 |
 
 Mean Cross Correlation values per method:
+| Method                          | Value           |
+|---------------------------------|-----------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.8330416025511844 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.6596325235201358 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.6599929731951029 |
+| flt_BFi                         | 0.41880922187401076 |
+| flt_Wam                         | 0.4294095860521194   |
+| flt_Wfm                         | 0.41408299816392186 |
 
 
 ## VORTAL
