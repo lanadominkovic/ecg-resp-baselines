@@ -51,13 +51,13 @@ TBA
 ## BIDMC
 Median Cross Correlation values per method:
 | Method                           | Median CC |
-|---------------------------------|-------------|
-| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.650003808 |
-| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.631862971 |
-| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.327023160 |
-| flt_BFi                         | 0.583788829 |
-| flt_Wam                         | 0.366217703 |
-| flt_Wfm                         | 0.303935696 |
+|----------------------------------|-------------------|ß
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF   | 0.668921          |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF   | 0.624421          |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF   | 0.324085          |
+| flt_BFi                          | 0.580680          |
+| flt_Wam                          | 0.369633          |
+| flt_Wfm                          | 0.298983          |
 
 Mean Cross Correlation values per method:
 | Method                           | Mean CC           |
@@ -70,21 +70,21 @@ Mean Cross Correlation values per method:
 | flt_Wfm                          | 0.311436          |
 
 Median MSE values per method:
-| Method                              | Median MSE            |
-|-------------------------------------|-----------------------|
-| ELF_RSlinB_FMeam_FPt_RDtGC_EHF      | 0.09294402247492166   |
-| ELF_RSlinB_FMebw_FPt_RDtGC_EHF      | 0.09438058726060645   |
-| ELF_RSlinB_FMefm_FPt_RDtGC_EHF      | 0.09485677200510584   |
-| flt_BFi                             | 0.09139135901524713   |
-| flt_Wam                             | 0.09750273368732834   |
-| flt_Wfm                             | 0.15436918154469434   |
+| Method                          | Median MSE  |
+|---------------------------------|-------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.065487349 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.063529328 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.100491667 |
+| flt_BFi                         | 0.073391232 |
+| flt_Wam                         | 0.098648175 |
+| flt_Wfm                         | 0.108399887 |
 
 Mean MSE values per method:
-| Method                              | Mean MSE              |
-|-------------------------------------|-----------------------|
-| ELF_RSlinB_FMeam_FPt_RDtGC_EHF      | 0.09211508864130444   |
-| ELF_RSlinB_FMebw_FPt_RDtGC_EHF      | 0.09289551776604257   |
-| ELF_RSlinB_FMefm_FPt_RDtGC_EHF      | 0.09550256376349406   |
-| flt_BFi                             | 0.09261066150064162   |
-| flt_Wam                             | 0.09716343168135137   |
-| flt_Wfm                             | 0.1672530787310588    |
+| Method                          | Mean MSE    |
+|---------------------------------|-------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.065680772 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.064893659 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.101571312 |
+| flt_BFi                         | 0.076747333 |
+| flt_Wam                         | 0.108820176 |
+| flt_Wfm                         | 0.111787250 |
