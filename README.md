@@ -4,24 +4,44 @@ Following baselines are extracted using RRest toolbox https://github.com/peterhc
 
 ## CAPNOBASE
 Median Cross Correlation values per method:
-| Method                          | Value           |
-|---------------------------------|-----------------|
-| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.8611708902922213 |
-| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.6931336921888313 |
-| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.6897644243814937 |
-| flt_BFi                         | 0.45598445558912815 |
-| flt_Wam                         | 0.452134119875432   |
-| flt_Wfm                         | 0.40757009418580536 |
+| Method                          | Median CC   |
+|---------------------------------|-------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.861170890 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.693133692 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.689764424 |
+| flt_BFi                         | 0.455984456 |
+| flt_Wam                         | 0.452134120 |
+| flt_Wfm                         | 0.407570094 |
 
 Mean Cross Correlation values per method:
-| Method                          | Value           |
-|---------------------------------|-----------------|
-| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.8330416025511844 |
-| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.6596325235201358 |
-| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.6599929731951029 |
-| flt_BFi                         | 0.41880922187401076 |
-| flt_Wam                         | 0.4294095860521194   |
-| flt_Wfm                         | 0.41408299816392186 |
+| Method                          | Mean CC     |
+|---------------------------------|-------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.833041603 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.659632524 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.659992973 |
+| flt_BFi                         | 0.418809222 |
+| flt_Wam                         | 0.429409586 |
+| flt_Wfm                         | 0.414082998 |
+
+Median MSE values per method:
+| Method                          | Median MSE  |
+|---------------------------------|-------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.048393343 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.081204634 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.075989270 |
+| flt_BFi                         | 0.118134236 |
+| flt_Wam                         | 0.120862887 |
+| flt_Wfm                         | 0.125520539 |
+
+Mean MSE values per method:
+| Method                          | Mean MSE    |
+|---------------------------------|-------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.057340347 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.086096711 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.082893342 |
+| flt_BFi                         | 0.112887833 |
+| flt_Wam                         | 0.125660973 |
+| flt_Wfm                         | 0.132390461 |
 
 
 ## VORTAL
