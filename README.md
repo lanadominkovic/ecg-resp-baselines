@@ -51,13 +51,13 @@ TBA
 ## BIDMC
 Median Cross Correlation values per method:
 | Method                           | Median CC |
-|----------------------------------|-------------------|
-| ELF_RSlinB_FMeam_FPt_RDtGC_EHF   | 0.668921          |
-| ELF_RSlinB_FMebw_FPt_RDtGC_EHF   | 0.624421          |
-| ELF_RSlinB_FMefm_FPt_RDtGC_EHF   | 0.324085          |
-| flt_BFi                          | 0.580680          |
-| flt_Wam                          | 0.369633          |
-| flt_Wfm                          | 0.298983          |
+|---------------------------------|-------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF  | 0.650003808 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF  | 0.631862971 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF  | 0.327023160 |
+| flt_BFi                         | 0.583788829 |
+| flt_Wam                         | 0.366217703 |
+| flt_Wfm                         | 0.303935696 |
 
 Mean Cross Correlation values per method:
 | Method                           | Mean CC           |
