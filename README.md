@@ -1,6 +1,6 @@
 # Baselines from RRest Toolbox
 
-Following baselines are extracted using RRest toolbox https://github.com/peterhcharlton/RRest/tree/master (version 3.0 was used)
+Following baselines are extracted using modified RRest toolbox https://github.com/lanadominkovic/RRest/tree/main/RRest-master (version 3.0 was used)
 
 ## CAPNOBASE
 Median Cross Correlation values per method:
