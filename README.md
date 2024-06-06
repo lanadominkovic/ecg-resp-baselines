@@ -47,11 +47,53 @@ Mean MSE values per method:
 ## VORTAL
 TBA
 
+## FANTASIA
+Median Cross Correlation values per method:
+| Method                           | Median CC         |
+|----------------------------------|-------------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF       | 0.60523863 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF       | 0.50991286 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF       | 0.59205976 |
+| flt_BFi                              | 0.36287307 |
+| flt_Wam                              | 0.39302982 |
+| flt_Wfm                              | 0.44248239 |
+
+Mean Cross Correlation values per method:
+| Method                           | Mean CC           |
+|--------------------------------------|------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF       | 0.58591727 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF       | 0.49863262 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF       | 0.55527418 |
+| flt_BFi                              | 0.37041737 |
+| flt_Wam                              | 0.38722766 |
+| flt_Wfm                              | 0.44850198 |
+
+Median MSE values per method:
+| Method                          | Median MSE  |
+|--------------------------------------|------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF       | 0.06355228 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF       | 0.06712853 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF       | 0.06540258 |
+| flt_BFi                              | 0.08264363 |
+| flt_Wam                              | 0.08760163 |
+| flt_Wfm                              | 0.07355171 |
+
+Mean MSE values per method:
+| Method                          | Mean MSE    |
+|--------------------------------------|------------|
+| ELF_RSlinB_FMeam_FPt_RDtGC_EHF       | 0.07200027 |
+| ELF_RSlinB_FMebw_FPt_RDtGC_EHF       | 0.06983495 |
+| ELF_RSlinB_FMefm_FPt_RDtGC_EHF       | 0.07060913 |
+| flt_BFi                              | 0.08393080 |
+| flt_Wam                              | 0.09336042 |
+| flt_Wfm                              | 0.08207561 |
+
+
 
 ## BIDMC
 Median Cross Correlation values per method:
-| Method                           | Median CC |
-|----------------------------------|-------------------|ß
+| Method                           | Median CC         |
+|----------------------------------|-------------------|
 | ELF_RSlinB_FMeam_FPt_RDtGC_EHF   | 0.668921          |
 | ELF_RSlinB_FMebw_FPt_RDtGC_EHF   | 0.624421          |
 | ELF_RSlinB_FMefm_FPt_RDtGC_EHF   | 0.324085          |
